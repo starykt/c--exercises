@@ -1,0 +1,15 @@
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.exe
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.deps.json
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.runtimeconfig.json
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.dll
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.pdb
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.AssemblyReference.cache
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.dll
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\refint\ComposicaoNotaFiscal.dll
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.pdb
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+J:\49YHSGYLAGNCWJKTIZHJHDIRXTZAF5\POO noite\ComposicaoNotaFiscal\obj\Debug\net6.0\ref\ComposicaoNotaFiscal.dll

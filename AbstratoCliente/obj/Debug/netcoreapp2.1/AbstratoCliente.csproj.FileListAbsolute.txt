@@ -1,0 +1,11 @@
+L:\POO noite\AbstratoCliente\bin\Debug\netcoreapp2.1\AbstratoCliente.deps.json
+L:\POO noite\AbstratoCliente\bin\Debug\netcoreapp2.1\AbstratoCliente.runtimeconfig.json
+L:\POO noite\AbstratoCliente\bin\Debug\netcoreapp2.1\AbstratoCliente.runtimeconfig.dev.json
+L:\POO noite\AbstratoCliente\bin\Debug\netcoreapp2.1\AbstratoCliente.dll
+L:\POO noite\AbstratoCliente\bin\Debug\netcoreapp2.1\AbstratoCliente.pdb
+L:\POO noite\AbstratoCliente\obj\Debug\netcoreapp2.1\AbstratoCliente.csprojAssemblyReference.cache
+L:\POO noite\AbstratoCliente\obj\Debug\netcoreapp2.1\AbstratoCliente.csproj.CoreCompileInputs.cache
+L:\POO noite\AbstratoCliente\obj\Debug\netcoreapp2.1\AbstratoCliente.AssemblyInfoInputs.cache
+L:\POO noite\AbstratoCliente\obj\Debug\netcoreapp2.1\AbstratoCliente.AssemblyInfo.cs
+L:\POO noite\AbstratoCliente\obj\Debug\netcoreapp2.1\AbstratoCliente.dll
+L:\POO noite\AbstratoCliente\obj\Debug\netcoreapp2.1\AbstratoCliente.pdb
